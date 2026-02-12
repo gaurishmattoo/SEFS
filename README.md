@@ -139,7 +139,7 @@ SEFS (Semantic Entropy File System) is a **self-organizing file manager** that:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/SEFS.git
+git clone https://github.com/gaurishmattoo/SEFS.git
 cd SEFS
 ```
 
