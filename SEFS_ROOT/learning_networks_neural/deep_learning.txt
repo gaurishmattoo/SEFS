@@ -1,0 +1,1 @@
+Deep learning frameworks TensorFlow PyTorch neural network architectures computer vision natural language processing reinforcement learning generative adversarial networks autoencoders
